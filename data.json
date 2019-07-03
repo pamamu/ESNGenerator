@@ -1,0 +1,112 @@
+{
+  "esnhuelva": {
+    "section_name": "ESN HUELVA",
+    "section_nif": "G-21465620",
+    "section_address": "C/ Dr. Cantero Cuadrado 6, oficina A1P109  20004, Huelva",
+    "section_email": "info@esnhuelva.es",
+    "section_number": "693345713",
+    "section_register": "ASOCIACION",
+    "section_iva": "21%",
+    "section_web": "www.esnhuelva.org"
+  },
+  "esnjaen": {
+    "section_name": "ESN JAEN",
+    "section_nif": "G23707235",
+    "section_address": "Campus Las Lagunillas. Edificio Bachiller Pérez de Moya (C-2) Despacho 303. C.P.: 23.071 Jaén",
+    "section_email": "info@esnjaen.org",
+    "section_number": "601 06 36 49",
+    "section_register": "Sección Primera ESN Jaén - 2944 ",
+    "section_iva": "21%",
+    "section_web": "esnjaen.org"
+  },
+  "esnsevilla": {
+    "section_name": "ESN Sevilla",
+    "section_nif": "G-41476383",
+    "section_address": "Avda. Ramón y Cajal, nº 1, Facultad de Ciencias Económicas y Empresariales, 41018, Sevilla / Avda. de la Ciudad Jardín, 20-22, Centro Internacional, 41005 Sevilla",
+    "section_email": "info@esnsevilla.org",
+    "section_number": "680737979",
+    "section_register": "ASOCIACION 11472",
+    "section_iva": "21",
+    "section_web": "esnsevilla.org"
+  },
+  "esnbarcelonaub": {
+    "section_name": "ESN Barcelona UB",
+    "section_nif": "",
+    "section_address": "",
+    "section_email": "",
+    "section_number": "",
+    "section_register": "",
+    "section_iva": "21%",
+    "section_web": ""
+  },
+  "esnmalaga": {
+    "section_name": "ESN Málaga",
+    "section_nif": "",
+    "section_address": "",
+    "section_email": "",
+    "section_number": "",
+    "section_register": "",
+    "section_iva": "21%",
+    "section_web": ""
+  },
+  "esnuclm": {
+    "section_name": "ESN UCLM",
+    "section_nif": "",
+    "section_address": "",
+    "section_email": "",
+    "section_number": "",
+    "section_register": "",
+    "section_iva": "21%",
+    "section_web": ""
+  },
+  "esnuex": {
+    "section_name": "ESN UEx",
+    "section_nif": "G06628903",
+    "section_address": "\"Universidad de Extremadura, Avda de Elvas s/n\nEdificio Antiguo Comedor, Frente a Secretariado de Relaciones Internacionales\n06006 Badajoz\"",
+    "section_email": "junta-local@esnuex.org",
+    "section_number": "654126191",
+    "section_register": "TERCERA 1423",
+    "section_iva": "21%",
+    "section_web": "esnuex.org"
+  },
+  "esnoviedo": {
+    "section_name": "ESN OVIEDO",
+    "section_nif": "G74301839",
+    "section_address": "Calle Joaquín Costa, 48 (Hotel de Asociaciones), 33011, Oviedo, ES",
+    "section_email": "",
+    "section_number": "606645868",
+    "section_register": "ASOCIACION G74301839",
+    "section_iva": "21%",
+    "section_web": "esnoviedo.org"
+  },
+  "esnucm": {
+    "section_name": "ESN UCM",
+    "section_nif": "G80359086",
+    "section_address": "Avenida puerta de hierro, s/n. 28040 Madrid",
+    "section_email": "info@esnucm.org",
+    "section_number": "672 38 92 32",
+    "section_register": "ASOCIACION 11805",
+    "section_iva": "21%",
+    "section_web": "www.esnucm.org"
+  },
+  "esnbarcelonaupf": {
+    "section_name": "ESN Barcelona UPF",
+    "section_nif": "G65271256",
+    "section_address": "Calle Ramon Trias Fargas 25-27, 08025 Barcelona. Oficina 20.1E08",
+    "section_email": "president@esnupf.org",
+    "section_number": "664072201",
+    "section_register": "42780-J/1",
+    "section_iva": "21%",
+    "section_web": "esnupf.org/"
+  },
+  "esnsantander": {
+    "section_name": "ESN Santander",
+    "section_nif": "G39806773",
+    "section_address": "Avenida de los castros s/n Casa del Estudiante, torre B planta -2 Santander, Cantabria, 39005, España",
+    "section_email": "info@esnsantander.org",
+    "section_number": "639455965",
+    "section_register": "PRIMERA 5745",
+    "section_iva": "21%",
+    "section_web": "esnsantander.org"
+  }
+}
